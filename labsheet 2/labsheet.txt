@@ -1,0 +1,27 @@
+1. Write a C++ program to implement Linear Search on an array. Display the position of the key if 
+it is found; otherwise display an appropriate message. 
+2. Write a C++ program to implement Binary Search on a sorted array. Display the position of the 
+key if it is found. 
+3. Write a C++ program to compare Linear Search and Binary Search for a given array and display 
+their results. 
+4. Write a C++ program to implement Bubble Sort in ascending order. Display the array after each 
+pass. 
+5. Write a C++ program to implement Bubble Sort in descending order. 
+6. Write a C++ program to implement Insertion Sort in ascending order. Display the array after 
+each insertion/pass. 
+7. Write a C++ program to implement Selection Sort in ascending order. Display the minimum 
+element selected in each pass. 
+8. Write a C++ program to implement Merge Sort using separate functions for merging and 
+sorting. 
+9. Write a C++ program to implement Quick Sort using the last element as the pivot. 
+10. Write a C++ program to implement Quick Sort and display the array after each partition. 
+11. Write a menu-driven C++ program that allows the user to choose Linear Search or Binary 
+Search for a given array. 
+12. Write a menu-driven C++ program that allows the user to choose Bubble Sort, Insertion Sort, or 
+Selection Sort. 
+13. Write a C++ program to sort an array using Merge Sort and then search for a given element 
+using Binary Search. 
+14. Write a C++ program to implement any two sorting algorithms and compare their number of 
+comparisons for the same input array. 
+15. Write a C++ program to implement any three sorting algorithms and display their Best, 
+Average, and Worst-case time complexities as comments/output.

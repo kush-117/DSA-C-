@@ -1,0 +1,1 @@
+// 10. Write a C++ program to implement Quick Sort and display the array after each partition. 

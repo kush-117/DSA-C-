@@ -1,0 +1,28 @@
+1. Write a C++ program to implement Bubble Sort in ascending order. Display the array before 
+sorting and after each pass. 
+2. Write a C++ program to implement Bubble Sort in descending order and display the final sorted 
+array. 
+3. Write a C++ program to implement Insertion Sort in ascending order. Display the array after 
+each insertion/pass. 
+4. Write a C++ program to implement Selection Sort in ascending order. Display the minimum 
+element selected in each pass. 
+5. Write a C++ program to implement Merge Sort using separate functions for Merge Sort and 
+Merge operations. 
+6. Write a C++ program to implement Quick Sort using the last element as the pivot. 
+7. Write a C++ program to implement Quick Sort and display the array after each partition. 
+8. Write a C++ program to implement all five sorting algorithms: Bubble, Insertion, Selection, 
+Merge, and Quick Sort. 
+9. Take the same input array and sort it using Bubble Sort, Insertion Sort, and Selection Sort. 
+Compare the number of comparisons and swaps. 
+10. Take the same input array and sort it using Merge Sort and Quick Sort. Compare their time and 
+space complexity. 
+11. Write a C++ program that allows the user to select any one of the five sorting algorithms using a 
+menu-driven approach. 
+12. Write a C++ program to sort an array in ascending order and then in descending order using a 
+sorting algorithm of your choice. 
+13. Write a C++ program to count the number of comparisons performed by Bubble Sort, Insertion 
+Sort, and Selection Sort for a given input. 
+14. Write a C++ program to demonstrate the best-case behavior of Bubble Sort and Insertion Sort 
+using an already sorted array. 
+15. Write a C++ program to test Quick Sort on sorted, reverse-sorted, and randomly arranged arrays 
+and observe the effect of pivot selection

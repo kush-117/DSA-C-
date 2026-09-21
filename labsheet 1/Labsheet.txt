@@ -1,0 +1,17 @@
+1.	WAP to print sum of odd and sum of even elements in an array. Sample Input:- Arr[]={1,2,3,4,5}
+Sample Output:- SumEven=6 SumOdd=9
+2.	WAP to print the sum of two unequal sizes array into third array. Sample Input:- A[]={1,2,3,4,5} B[]={2,4,6,8,10,12,14}
+Sample Output:- Sum[]={3,6,9,12,15,12,14}
+3.	WAP to print the reverse of an array. Sample Input:- Arr[]={1,2,3,4,5} Sample Output:- 5 4 3 2 1
+4.	WAP to print kth smallest and kth largest element of an array. Sample Input:- Arr[]={1,2,3,4,5} k=2
+Sample Output:- 2nd Smallest=2 2nd Largest=4
+5.	WAP to print the union and intersection of two arrays. Sample Input:- A[]={1,2,3,4,5} B[]={2,4,6,8,10}
+Sample Output:- Union=1,2,3,4,5,6,8,10 Intersection=2,4
+6.	WAP to find duplicate elements in an array. Sample Input:- Arr[]={1,4,3,4,5,1}
+Sample Output:- 1 4
+7.	WAP to determine whether one array is subset of another array. Both arrays are not sorted, different sized and elements are distinct.
+Sample Input:- Arr1[] = {11, 1, 13, 21, 3, 7}, Arr2[] = {11, 3, 7, 1}
+Sample Output:- Yes
+8.	WAP to find the first repeating element in an array. Sample Input:- Arr[] = {10, 5, 3, 4, 3, 5, 6}
+Sample Output:- 5
+ 
