@@ -10,7 +10,7 @@ public:
         next = nullptr;
     }
 };
-
+           
 int main() {
     node* head = nullptr;
     node *tail = nullptr;
@@ -20,10 +20,10 @@ int main() {
     node *third = new node(3);
     node *fourth = new node(4);
 
-    first->data = 1;
-    second->data = 2;
-    third->data = 3;
-    fourth->data = 4;
+    first-> data = 1;
+    second-> data = 2;
+    third-> data = 3;
+    fourth-> data = 4;
 
     first->next = second;
     second->next = third;
