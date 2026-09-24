@@ -1,0 +1,18 @@
+| Algorithm      |       Best |    Average |      Worst |     Space | Stable |
+| -------------- | ---------: | ---------: | ---------: | --------: | ------ |
+| Linear Search  |       O(1) |       O(n) |       O(n) |      O(1) | N/A    |
+| Binary Search  |       O(1) |   O(log n) |   O(log n) |      O(1) | N/A    |
+| Bubble Sort    |       O(n) |      O(n²) |      O(n²) |      O(1) | Yes    |
+| Insertion Sort |       O(n) |      O(n²) |      O(n²) |      O(1) | Yes    |
+| Selection Sort |      O(n²) |      O(n²) |      O(n²) |      O(1) | No     |
+| Merge Sort     | O(n log n) | O(n log n) | O(n log n) |      O(n) | Yes    |
+| Quick Sort     | O(n log n) | O(n log n) |      O(n²) | O(log n)* | No     |
+|                |            |            |            |           |        |
+|                |            |            |            |           |        |
+|                |            |            |            |           |        |
+|                |            |            |            |           |        |
+|                |            |            |            |           |        |
+|                |            |            |            |           |        |
+|                |            |            |            |           |        |
+|                |            |            |            |           |        |
+|                |            |            |            |           |        |

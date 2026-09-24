@@ -1,0 +1,68 @@
+Practice / Analysis Questions: Lab Sheet-02
+1. Why does Binary Search require a sorted array?
+Answer:- Binary Search compares the key with the middle element and decides whether to search the left or right half. This decision is only possible when the elements are sorted.
+
+2. Why is Binary Search O(log n)?
+Answer:- Each comparison reduces the search space approximately by half:
+n → n/2 → n/4 → n/8 → ...
+Therefore, the number of steps is proportional to log₂ n.
+
+3. Why can Bubble Sort have O(n) best-case complexity?
+Answer:- In the optimized version, if the array is already sorted, no swapping occurs during the first pass. The algorithm detects this using swapped = false and stops.
+
+4. Difference between Insertion Sort and Selection Sort
+Answer:-
+Insertion Sort:
+
+Takes one element at a time.
+Inserts it into the correct position.
+Adaptive.
+Stable.
+
+Selection Sort:
+
+Finds the minimum element.
+Places it at the correct position.
+Usually performs O(n²) comparisons.
+Standard implementation is not stable.
+5. Why is Merge Sort Divide and Conquer?
+Answer:-
+It divides the array into smaller subarrays, recursively sorts them, and then combines them using the merge operation.
+
+6. What is a pivot in Quick Sort?
+Answer:-
+The pivot is the element selected to partition the array into elements smaller than the pivot and elements greater than or equal to it.
+
+7. Why can Quick Sort have O(n²) worst-case complexity?
+Answer:-
+If the pivot repeatedly produces highly unbalanced partitions, such as one part containing n-1 elements and the other containing zero elements, the recursion becomes approximately:
+
+n + (n-1) + (n-2) + ...
+
+which gives O(n²).
+
+8. Which sorting algorithms are stable?
+Answer:-
+For the standard implementations used here:
+
+Bubble Sort: Stable
+Insertion Sort: Stable
+Selection Sort: Not stable
+Merge Sort: Stable
+Quick Sort: Not stable
+
+The sheet specifically asks stability to be verified according to the implementation.
+
+9. Which algorithm requires additional O(n) space?
+Answer:-
+Merge Sort requires O(n) additional space in its standard array implementation.
+
+10. Quick Sort vs Merge Sort
+Answer:-
+Feature	    Quick Sort	Merge Sort
+Best	    O(n log n)	O(n log n)
+Average	    O(n log n)	O(n log n)
+Worst	    O(n²)	    O(n log n)
+Extra space	O(log n) 	O(n)
+Stable	    No	        Yes
+In-place	Usually yes	Standard array version no
