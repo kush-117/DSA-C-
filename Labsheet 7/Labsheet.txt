@@ -1,0 +1,19 @@
+Lab Exercises 
+8. Write a C++ program to create a Binary Tree using dynamically allocated nodes and display its structure. 
+9. Write a C++ program to implement Inorder Traversal of a Binary Tree. 
+10.  Write a C++ program to implement Preorder Traversal of a Binary Tree. 
+11.  Write a C++ program to implement Postorder Traversal of a Binary Tree. 
+12.  Write a C++ program to implement all three traversals — Inorder, Preorder, and Postorder — for the same 
+Binary Tree. 
+13.  Write a C++ program to create a Binary Search Tree (BST) by inserting n elements. 
+14.  Write a C++ program to perform searching in a Binary Search Tree for a given key. 
+15.  Write a C++ program to perform insertion in a Binary Search Tree and display its inorder traversal. 
+16.  Write a C++ program to delete a leaf node from a Binary Search Tree. 
+17.  Write a C++ program to delete a node having one child from a Binary Search Tree. 
+18.  Write a C++ program to delete a node having two children from a Binary Search Tree using the inorder 
+successor. 
+19.  Write a C++ program to calculate the height of a Binary Tree. 
+20.  Write a C++ program to count the total number of nodes in a Binary Tree. 
+21.  Write a C++ program to count the number of leaf nodes in a Binary Tree. 
+22.  Write a C++ program to implement a menu-driven Binary Search Tree with the following operations: Insert, 
+Search, Inorder Traversal, Preorder Traversal, Postorder Traversal, Delete, Height, Count Nodes, Exit.
