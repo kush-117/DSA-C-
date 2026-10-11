@@ -1,0 +1,16 @@
+Lab Exercises 4
+1. Write a C++ program to create and display a Singly Linked List. 
+2. Write a C++ program to insert a node at the beginning of a Linked List. 
+3. Write a C++ program to insert a node at the end of a Linked List. 
+4. Write a C++ program to insert a node at a given position. 
+5. Write a C++ program to delete a node from the beginning. 
+6. Write a C++ program to delete a node from the end. 
+7. Write a C++ program to delete a node from a given position. 
+8. Write a C++ program to search for an element in a Singly Linked List. 
+9. Write a C++ program to count the total number of nodes in a Linked List. 
+10. Write a C++ program to find the maximum and minimum element in a Linked List. 
+11. Write a C++ program to reverse a Singly Linked List. 
+12. Write a C++ program to sort the elements of a Linked List in ascending order. 
+13. Write a menu-driven C++ program implementing insertion, deletion, searching and display operations. 
+14. Write a C++ program to implement a Doubly Linked List and perform insertion and deletion operations. 
+15. Write a C++ program to implement a Circular Linked List and perform traversal and insertion operations.
