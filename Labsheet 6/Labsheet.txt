@@ -1,0 +1,18 @@
+Lab Exercises 
+1. Write a C++ program to implement a Queue using an array. Perform Enqueue, Dequeue, Peek and Display 
+operations. 
+2. Write a C++ program to implement Enqueue operation and demonstrate insertion at the Rear. 
+3. Write a C++ program to implement Dequeue operation and demonstrate deletion from the Front. 
+4. Write a C++ program to implement Peek operation and display the Front element without deleting it. 
+5. Write a C++ program to display all elements of a Queue from Front to Rear. 
+6. Write a C++ program to demonstrate Queue Overflow using an array. 
+7. Write a C++ program to demonstrate Queue Underflow. 
+8. Write a menu-driven C++ program implementing all basic Queue operations. 
+9. Write a C++ program to count the number of elements currently present in a Queue. 
+10. Write a C++ program to search for a given element in a Queue. 
+11. Write a C++ program to find the maximum and minimum elements in a Queue. 
+12. Write a C++ program to reverse the elements of a Queue. 
+13. Write a C++ program to implement a Circular Queue using an array. 
+14. Write a C++ program to implement Queue using a Linked List. 
+15. Write a C++ program to compare Linear Queue and Circular Queue in terms of space utilization and 
+operations.
