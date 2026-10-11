@@ -1,0 +1,16 @@
+Lab Exercises 
+1. Write a C++ program to implement a Stack using an array with Push, Pop, Peek, and Display operations. 
+2. Write a C++ program to demonstrate Stack Overflow. 
+3. Write a C++ program to demonstrate Stack Underflow. 
+4. Write a C++ program to display the TOP element using Peek operation. 
+5. Write a menu-driven C++ program for Push, Pop, Peek, and Display. 
+6. Write a C++ program to implement a Stack of integers using an array. 
+7. Write a C++ program to reverse a string using Stack. 
+8. Write a C++ program to check balanced parentheses using Stack. 
+9. Write a C++ program to convert an Infix expression into Postfix using Stack. 
+10.  Write a C++ program to evaluate a Postfix expression using Stack. 
+11.  Write a C++ program to convert an Infix expression into Prefix using Stack. 
+12.  Write a C++ program to implement two stacks in a single array. 
+13.  Write a C++ program to implement Stack using a class. 
+14.  Write a C++ program to demonstrate Stack use in recursion. 
+15.  Write a C++ program to analyze the time complexity of Push, Pop, Peek, and Display operations. 
